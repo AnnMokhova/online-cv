@@ -10,33 +10,33 @@ sidebar:
     # Profile information
     name: Anna Mokhova
     tagline: Master Graduate in Language and Communication Technologies 
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profle.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: ann.mokhova@gmail.com
+    phone: +31626104653
+    timezone: Central European Time (CET)
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
+    website: annmokhova.github.io/online-cv/ #do not add http://
+    linkedin: linkedin.com/in/anna-mokhova-9bb233b4/
     xing: alandoe
-    github: sharu725
+    github: AnnMokhova
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: # To add
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # To add
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Russian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
         - idiom: Spanish
@@ -66,17 +66,17 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Language and Science Technologies
+        university: Saarland University
+        time: October 2022 - September 2023
         details: |
           Describe your study here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
           sociis natoque penatibus et magnis dis parturient montes, nascetur
           ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
           pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - **Selected Coursework:** Foundations of Mathematics, Advances in Question Answering, Cross-lingual learning.
+            - **Thesis Topic:** Multilingual Coreference Resolution Using Prompt Engineering for Mention Detection
       - degree: BSc in Applied Mathematics
         university: Bristol University
         time: 2007 - 2011
