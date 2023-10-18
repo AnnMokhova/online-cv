@@ -39,11 +39,11 @@ sidebar:
         - idiom: English
           level: C2
 
-        - idiom: Dutch
-          level: A2
-
         - idiom: German
           level: B1
+
+        - idiom: Dutch
+          level: A2
 
     interests:
       title: Interests
@@ -80,11 +80,7 @@ education:
         university: Saarland University, Saarbrücken (Germany)
         time: Oct 2022 - Sept 2023
         details: |
-          Interdisciplinary programme part of European Master's degree 
-          programme in 'Language and Communication Technologies' (second year, GPA 7.60/10),
-          and which is aimed at basic, applied, and cognitive research on 
-          written and spoken language. The study programme prepares for a 
-          research or development role in the computational linguistics sector.
+          GPA 7.60/10
           Upon graduation, I have obtained a double dgree from the University of
           Groningen and Saarland University.
             - Selected Coursework: Foundations of Mathematics, Advances in Question Answering, Cross-lingual learning.
@@ -93,23 +89,14 @@ education:
         university: University of Groningen, Groningen (Netherlands)
         time: Sept 2021 - Sept 2023
         details: |
-          Interdisciplinary programme part of European Master's degree 
-          programme in 'Language and Communication Technologies' (first year, GPA 7.60/10),
-          and which is aimed at offering a combination of 
-          theoretical linguistics and computer-science research 
-          in a multi-lingual setting.
-          pretium quis, sem.
+          GPA 7.60/10
             - Selected Coursework: Basic Statistics, Learning from Data, Natural Language Processing, Computational Simulations of Language.
             - Thesis Topic: Multilingual Coreference Resolution Using Prompt Engineering for Mention Detection.
       - degree: BA Fundamental and Computational Linguistics
         university: Higher School of Economics, Moscow (Russia)
         time: Sept 2017 - Jun 2021
         details: |
-          BA course aimed at building students’ skills in the humanities 
-          and in mathematics, as well as in programming. Upon graduation,
-          I obtained skills in the automatic processing of natural languages 
-          in the field of computer technologies or in theoretical studying 
-          of the diversity of natural and constructed languages.
+          GPA 8.90/10
             - Selected Coursework: Programming and Theory of Algorithms, Databases, Neural Networks in Computational Linguistics, Linear Algebra, Mathematical Analysis.
             - Thesis topic: Automatic Generation of Russian Puns.
 
