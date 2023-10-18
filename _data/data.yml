@@ -61,11 +61,10 @@ career-profile:
     title: Career Profile
     summary: |
       TempTemp
-
 education:
     title: Education
-    info: |
-    - degree: Master of Science in Language and Science Technologies (Second Year), GPA 7.60/10
+    info:
+      - degree: Master of Science in Language and Science Technologies (Second Year), GPA 7.60/10
         university: Saarland University, Saarbrücken (Germany)
         time: October 2022 - September 2023
         details: |
@@ -78,7 +77,7 @@ education:
           Groningen and Saarland University.
             - Selected Coursework: Foundations of Mathematics, Advances in Question Answering, Cross-lingual learning.
             - Thesis Topic: Multilingual Coreference Resolution Using Prompt Engineering for Mention Detection.
-    - degree: Master of Arts in Language and Communication Technologies (First Year), GPA 7.60/10
+      - degree: Master of Arts in Language and Communication Technologies (First Year), GPA 7.60/10
         university: University of Groningen, Groningen (Netherlands)
         time: September 2021 - September 2023
         details: |
@@ -87,19 +86,20 @@ education:
           and which is aimed at offering a combination of 
           theoretical linguistics and computer-science research 
           in a multi-lingual setting.
+          pretium quis, sem.
             - Selected Coursework: Basic Statistics, Learning from Data, Natural Language Processing, Computational Simulations of Language.
-            - Thesis Topic: Multilingual Coreference Resolution Using Prompt Engineering for Mention Detection
-      - degree: Bachelor of Arts in Fundamental and Computational Linguistics, GPA 8.90/10
-        university: Higher School of Economics, Moscow (Russia)
-        time: September 2017 - June 2021
+            - Thesis Topic: Multilingual Coreference Resolution Using Prompt Engineering for Mention Detection.
+      - degree: MSc in Computer Science
+        university: University of London
+        time: 2011 - 2012
         details: |
-          Study course aimed at building students’ skills in the humanities 
-          and in mathematics, as well as in programming as well as preparation
-          of specialists in the automatic processing of natural languages in 
-          the field of computer technologies or the theoretical studying of 
-          the diversity of natural and constructed languages.
-            - **Selected Coursework:** Programming and Theory of Algorithms, Databases, Neural Networks in Computational Linguistics, Linear Algebra, Mathematical Analysis.
-            - **Thesis topic:** Automatic Generation of Russian Puns.
+          Describe your study here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+          sociis natoque penatibus et magnis dis parturient montes, nascetur
+          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+          pretium quis, sem.
+            - Selected Coursework: Programming and Theory of Algorithms, Databases, Neural Networks in Computational Linguistics, Linear Algebra, Mathematical Analysis.
+            - Thesis topic: Automatic Generation of Russian Puns.
 
 experiences:
     title: Experiences
