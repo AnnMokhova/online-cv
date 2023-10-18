@@ -19,7 +19,7 @@ sidebar:
     citizenship:
     website: annmokhova.github.io/online-cv/ #do not add http://
     linkedin: linkedin.com/in/anna-mokhova-9bb233b4/
-    xing: alandoe
+    xing: 
     github: AnnMokhova
     telegram: # add your nickname without '@' sign
     gitlab:
@@ -39,8 +39,11 @@ sidebar:
         - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
+        - idiom: Dutch
+          level: Elementary
+
+        - idiom: German
+          level: Elementary
 
     interests:
       title: Interests
@@ -65,7 +68,7 @@ career-profile:
       Second paragraph if required.
 education:
     title: Education
-    summary:
+    summary: |
       - degree: Master of Science in Language and Science Technologies (Second Year), GPA 7.60/10
         university: Saarland University, Saarbrücken (Germany)
         time: October 2022 - September 2023
