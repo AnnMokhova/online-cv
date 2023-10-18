@@ -37,13 +37,13 @@ sidebar:
           level: Native
 
         - idiom: English
-          level: Professional
+          level: C2
 
         - idiom: Dutch
-          level: Elementary
+          level: A2
 
         - idiom: German
-          level: Elementary
+          level: B1
 
     interests:
       title: Interests
@@ -54,13 +54,25 @@ sidebar:
         - item: Marathon
           link:
 
-        - item: Travel
+        - item: Piano
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Temp
+      Freshly graduated with a Master's degree in Language and Science Technologies and 
+      Language and Communication Technologies, I possess a keen understanding of the 
+      intersection between linguistics and cutting-edge technology. Passionate about 
+      leveraging natural language processing to drive effective communication, I have honed my 
+      skills through rigorous academic projects and hands-on experiences. With a solid foundation 
+      in both theoretical and applied aspects of language technologies, I am eager to contribute to 
+      a forward-thinking organization where innovative solutions are valued. With strong analytical 
+      thinking, I adeptly apply appropriate research methods; my adaptability has been proven through 
+      successful study and work experiences across three countries, complemented by excellent 
+      organizational skills that allow me to efficiently manage team dynamics and task distribution, 
+      and further bolstered by proficient problem-solving, communication, teamwork, flexibility, and 
+      time management capabilities.
+      
 education:
     title: Education
     info:
@@ -142,45 +154,32 @@ projects:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Matching semantic sketches to predicates in context using the BERT model
+        link: "https://www.dialog-21.ru/media/5489/aleksandrovapplusmokhovaaplusnikolaenkovam145.pdf"
+        authors: Aleksandrova P., Mokhova A., Nikolaenkova M.
+        conference: Proceedings of Annual International Conference on Computational Linguistics and Intellectual Technologies ’Dialogue 2021’, Moscow, 2021.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Python & R
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: MongoDB
         level: 98%
 
-      - name: Angular
+      - name: SQL
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Microsoft Excel / Google Sheet
         level: 95%
 
-      - name: Ruby on Rails
+      - name: TensorFlow
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: PyTorch, Keras, Git, HTML, NLTK, Gensim, spaCy, NumPy, Pandas, scikit-learn
         level: 60%
 
 footer: >
