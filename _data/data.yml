@@ -5,7 +5,7 @@
 sidebar:
     position: right # position of the sidebar : left or right
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Anna Mokhova
@@ -64,8 +64,8 @@ career-profile:
 
 education:
     title: Education
-    summary: |
-      - degree: Master of Science in Language and Science Technologies (Second Year), GPA 7.60/10
+    info: |
+    - degree: Master of Science in Language and Science Technologies (Second Year), GPA 7.60/10
         university: Saarland University, Saarbrücken (Germany)
         time: October 2022 - September 2023
         details: |
@@ -78,7 +78,7 @@ education:
           Groningen and Saarland University.
             - Selected Coursework: Foundations of Mathematics, Advances in Question Answering, Cross-lingual learning.
             - Thesis Topic: Multilingual Coreference Resolution Using Prompt Engineering for Mention Detection.
-        - degree: Master of Arts in Language and Communication Technologies (First Year), GPA 7.60/10
+    - degree: Master of Arts in Language and Communication Technologies (First Year), GPA 7.60/10
         university: University of Groningen, Groningen (Netherlands)
         time: September 2021 - September 2023
         details: |
