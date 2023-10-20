@@ -39,11 +39,11 @@ sidebar:
         - idiom: English
           level: C2
 
-        - idiom: German
-          level: B1
-
         - idiom: Dutch
           level: A2
+
+        - idiom: German
+          level: B1
 
     interests:
       title: Interests
@@ -60,18 +60,14 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Freshly graduated with a Master's degree in Language and Science Technologies and 
-      Language and Communication Technologies, I possess a keen understanding of the 
-      intersection between linguistics and cutting-edge technology. Passionate about 
-      leveraging natural language processing to drive effective communication, I have honed my 
-      skills through rigorous academic projects and hands-on experiences. With a solid foundation 
-      in both theoretical and applied aspects of language technologies, I am eager to contribute to 
-      a forward-thinking organization where innovative solutions are valued. With strong analytical 
-      thinking, I adeptly apply appropriate research methods; my adaptability has been proven through 
-      successful study and work experiences across three countries, complemented by excellent 
-      organizational skills that allow me to efficiently manage team dynamics and task distribution, 
-      and further bolstered by proficient problem-solving, communication, teamwork, flexibility, and 
-      time management capabilities.
+      Freshly graduated with a Master’s degree in Language and Science Technologies 
+      and Language and Communication Technologies. I possess a keen understanding of 
+      the intersection between linguistics and computer science.  With a solid 
+      foundation in both theoretical and applied aspects of computational linguistics, 
+      I am eager to apply my skills to a forward-thinking organization or academic 
+      institution where innovative solutions are valued. Analytical thinking, 
+      Adaptability, Organization, Problem Solving, Communication, Teamwork, Flexibility 
+      and  Time management are some of my other soft skills.
       
 education:
     title: Education
@@ -80,7 +76,12 @@ education:
         university: Saarland University, Saarbrücken (Germany)
         time: Oct 2022 - Sept 2023
         details: |
-          GPA 7.60/10. Upon graduation, I have obtained a double dgree from the University of
+          Interdisciplinary programme part of European Master's degree 
+          programme in 'Language and Communication Technologies' (second year, GPA 7.60/10),
+          and which is aimed at basic, applied, and cognitive research on 
+          written and spoken language. The study programme prepares for a 
+          research or development role in the computational linguistics sector.
+          Upon graduation, I have obtained a double dgree from the University of
           Groningen and Saarland University.
             - Selected Coursework: Foundations of Mathematics, Advances in Question Answering, Cross-lingual learning.
             - Thesis Topic: Multilingual Coreference Resolution Using Prompt Engineering for Mention Detection.
@@ -88,14 +89,23 @@ education:
         university: University of Groningen, Groningen (Netherlands)
         time: Sept 2021 - Sept 2023
         details: |
-          GPA 7.60/10
+          Interdisciplinary programme part of European Master's degree 
+          programme in 'Language and Communication Technologies' (first year, GPA 7.60/10),
+          and which is aimed at offering a combination of 
+          theoretical linguistics and computer-science research 
+          in a multi-lingual setting.
+          pretium quis, sem.
             - Selected Coursework: Basic Statistics, Learning from Data, Natural Language Processing, Computational Simulations of Language.
             - Thesis Topic: Multilingual Coreference Resolution Using Prompt Engineering for Mention Detection.
       - degree: BA Fundamental and Computational Linguistics
         university: Higher School of Economics, Moscow (Russia)
         time: Sept 2017 - Jun 2021
         details: |
-          GPA 8.90/10
+          BA course aimed at building students’ skills in the humanities 
+          and in mathematics, as well as in programming. Upon graduation,
+          I obtained skills in the automatic processing of natural languages 
+          in the field of computer technologies or in theoretical studying 
+          of the diversity of natural and constructed languages.
             - Selected Coursework: Programming and Theory of Algorithms, Databases, Neural Networks in Computational Linguistics, Linear Algebra, Mathematical Analysis.
             - Thesis topic: Automatic Generation of Russian Puns.
 
